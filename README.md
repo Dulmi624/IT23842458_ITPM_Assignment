@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 IT3040 – ITPM Assignment 1  
 
 
@@ -31,13 +31,10 @@ The purpose of this project is to verify how accurately the system converts Sing
 
 ~Author
 
-Name:K A K Dilhara
-Student ID: IT23815964
+Name:K D Madushika
+Student ID: IT23842458
 Course: IT3040 – ITP
 
 
 
 
-=======
-# IT23815964_ITPM_Assignment1
->>>>>>> e81fe1e00cc1fbe460600b67c10499630e1fe02a
